@@ -1,1 +1,1 @@
-/usr/sbin/dot_clean -m /Volumes/郭顺发外接移动硬盘/自媒体/guoshunfa-blog
+/usr/sbin/dot_clean -m /Volumes/郭顺发外接移动硬盘/自媒体/guoshunfa-code/guoshunfa-blog
