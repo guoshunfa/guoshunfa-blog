@@ -32,7 +32,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.12.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.18.36" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/arthas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建一个单体springboot项目" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -44,11 +44,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建一个单体springboot项目" />
+      <recent name="$PROJECT_DIR$/source/_posts/场景解决方案" />
       <recent name="$PROJECT_DIR$/source/_posts/arthas" />
       <recent name="$PROJECT_DIR$/source/_posts/docker" />
       <recent name="$PROJECT_DIR$/source/_posts" />
-      <recent name="$PROJECT_DIR$/source/_posts/Swift基础-控制流程" />
-      <recent name="$PROJECT_DIR$/source/_posts/Swift基础-集合类型" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/23集成流程引擎/搭建单体SpringBoot项目-集成Activiti7-整合" />
+      <recent name="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/23集成流程引擎/搭建单体SpringBoot项目-集成Activiti7-进阶" />
+      <recent name="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/23集成流程引擎/搭建单体SpringBoot项目-集成Activiti7-基础" />
+      <recent name="$PROJECT_DIR$/source/_posts/软件开发" />
+      <recent name="$PROJECT_DIR$/source/_posts/技术/理论/测试" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +73,13 @@
       <workItem from="1687929268699" duration="6543000" />
       <workItem from="1687947058450" duration="4646000" />
       <workItem from="1687955316274" duration="834000" />
-      <workItem from="1687997353638" duration="1314000" />
+      <workItem from="1687997353638" duration="13744000" />
+      <workItem from="1688024010162" duration="2072000" />
+      <workItem from="1688034510719" duration="1805000" />
+      <workItem from="1688037562742" duration="1397000" />
+      <workItem from="1688085754669" duration="508000" />
+      <workItem from="1688361470193" duration="98000" />
+      <workItem from="1688365342422" duration="147000" />
     </task>
     <servers />
   </component>

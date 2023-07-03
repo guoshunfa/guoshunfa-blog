@@ -185,8 +185,13 @@ title: 工具箱
                 {'name': 'upwork', 'link': 'https://www.fiverr.com/pages/freelancers-not-work?utm_source=google&utm_medium=cpc&utm_campaign=g_ge-row_ln-en_dv-desktop_cat-competitors_mt-exact_sf-upwork_qq-high-mid&utm_term=s_upwork_exact&utm_content=AdID%5e630319879658%5eKeyword%5eupwork%5ePlacement%5e%5eDevice%5ec&caid=17317009410&agid=137013247197&ad_id=630319879658&kw=upwork&lpcat=&show_join=true&cq_src=google_ads&cq_cmp=17317009410&cq_term=upwork&cq_plac=&cq_net=g&cq_plt=gp&gclid=Cj0KCQiA45qdBhD-ARIsAOHbVdGtPgJ8YHqIM_eGKydxWY8XKRcxe-hAH6o6m8nNuXpuIdrcf7vjShkaAmWTEALw_wcB&gclsrc=aw.ds', 'desc': ''} ,
                 {'name': 'toptal', 'link': 'https://www.toptal.com/', 'desc': ''} ,
                 {'name': '圆领', 'link': 'https://www.yuanling.com/home', 'desc': ''} ,
+                {'name': '程序员客栈', 'link': 'https://www.proginn.com', 'desc': ''} ,
+                {'name': '开源众包', 'link': 'https://zb.oschina.net', 'desc': ''} ,
+                {'name': '码市', 'link': 'https://www.codemart.com', 'desc': ''} ,
+                {'name': '猿急送', 'link': 'https://www.yuanjisong.com', 'desc': ''} ,
+                {'name': '开发邦', 'link': 'https://www.kaifabang.com', 'desc': ''} ,
             ]
-        };
+        }
         for(var toolGroupName in  toolGroups){
             document.write('<div style="display: flex;flex-wrap: wrap;"><h2 style="width: 80%;height: 40px;">'+toolGroupName+'</h2>');
             for(var tool of  toolGroups[toolGroupName]){

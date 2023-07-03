@@ -4,7 +4,7 @@ menu:
   归档: archives  # 归档
   分类: categories  # 分类
   标签: tags  # 标签
-  gitee仓库: repository  # github repositories
+  github仓库: repository  # github repositories
   工具箱: tools  # 豆瓣书单
   友链: links  # 友链
   关于: about  # 关于
@@ -16,7 +16,7 @@ menu_icons:
   归档: icon-archives-fill
   分类: icon-folder
   标签: icon-tags
-  gitee仓库: icon-project
+  github仓库: icon-project
   工具箱: icon-book-fill
   友链: icon-friendship
   关于: icon-cup-fill
@@ -33,7 +33,7 @@ site:
     url: images/avatar.jpg
   title: guoshunfa # 页面title
   favicon: favicon.jpg
-  board: <p>欢迎交流与分享经验!</p><hr/><a href="https://www.oracle.com/cn/java/">前往Java官网<a/><br/><a href="https://spring.io/">前往Spring官网<a/> # 站点公告
+  board: <p>平台正在整合老平台资源，增强文章质量，这段期间文章的链接可能会变动!</p><hr/><a href="https://www.oracle.com/cn/java/">前往Java官网<a/><br/><a href="https://spring.io/">前往Spring官网<a/> # 站点公告
   copyright: true # 底部版权信息
 
 # config
@@ -72,7 +72,7 @@ widgets:
 index_widgets:
 - category
 # - tagcloud
-# - archive  
+# - archive
 
 # 小部件的行为
 archive_type: 'monthly'
@@ -112,7 +112,7 @@ github:
 # Repository Info (This will override 'github' option)
 # 项目仓库信息（将会覆盖 github 项）
 repository:
-  platform: gitee # 托管平台（github | gitee）
+  platform: github # 托管平台（github | gitee）
   username: guoshunfa # 用户名
 
 # Comment
@@ -206,12 +206,12 @@ profile:
   author_title: JAVA开发攻城狮
   author_description: 专注于服务端场景的解决方案。
   location: Harbin, China
-  follow: https://gitee.com/guoshunfa
+  follow: https://github.com/guoshunfa
   # Social Links
   social:
     links:
       github: https://github.com/guoshunfa
-      gitee: https://gitee.com/guoshunfa
+      gitee: https://github.com/guoshunfa
       juejin: https://juejin.cn/user/166781500267015
       rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
