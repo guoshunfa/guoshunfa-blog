@@ -70,9 +70,9 @@ widgets:
 
 # 在索引页的底部显示小部件 (pagination == 2)
 index_widgets:
-- category
-# - tagcloud
-# - archive
+  - category
+  - tagcloud
+  - archive
 
 # 小部件的行为
 archive_type: 'monthly'
@@ -168,10 +168,10 @@ douban:
   count: 100 # 获取豆瓣书单数据条数
   apikey: # 豆瓣apikey
   
-# PV
+# PV 统计
 pv:
   busuanzi:
-    enable: false  # 不蒜子统计
+    enable: true  # 不蒜子统计
   leancloud:
     enable: false  # leancloud统计
     app_id: # leancloud <AppID>
@@ -185,9 +185,9 @@ postCount:
 
 # Plugins
 plugins:
-  google_analytics: # enter the tracking ID for your Google Analytics
-  google_site_verification: # enter Google site verification code
-  baidu_analytics: # enter Baidu Analytics hash key
+  google_analytics: # 输入跟踪ID为您的谷歌分析
+  google_site_verification: # 输入Google站点验证码
+  baidu_analytics: # 输入百度分析哈希键
   tencent_analytics: 
   
 # Miscellaneous
@@ -213,6 +213,7 @@ profile:
       github: https://github.com/guoshunfa
       gitee: https://github.com/guoshunfa
       juejin: https://juejin.cn/user/166781500267015
+      code: https://cloud.tencent.com/developer/user/7784141
       rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
@@ -227,6 +228,8 @@ profile:
     Gitee: https://gitee.com/guoshunfa
     Github: https://github.com/guoshunfa
     Blog: https://www.guoshunfa.com
+    Old_Blog: https://o.guoshunfa.com
+    腾讯云开发者社区: https://cloud.tencent.com/developer/user/7784141
     掘金: https://juejin.cn/user/166781500267015
     CSDN: https://blog.csdn.net/weixin_44450947
     博客园: https://home.cnblogs.com/u/guoshunfa
