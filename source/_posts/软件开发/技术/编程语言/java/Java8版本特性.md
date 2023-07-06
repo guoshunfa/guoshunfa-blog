@@ -1,12 +1,14 @@
 ---
 title: Java8版本特性
 tags:
-    - oracle
-    - java
-    - 版本
+    - Oracle
+    - Java
+    - Stream
+    - lambda
+    - Jdk
 categories:
-    - 技术
-date: 2022-07-01 12:01:01
+    - Java
+date: 2020-07-01 12:01:01
 thumbnail:
 ---
 # Java版本特性 - jdk8

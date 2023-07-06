@@ -1,14 +1,14 @@
 ---
 title: Swift基础 字符串和字符
 tags:
-    - swift
+    - Swift
     - 基础
 categories:
-    - 技术
+    - Swift
 date: 2022-07-01 12:01:01
 thumbnail:
 ---
-# Swift基础 - 字符串和字符
+
 
 翻译自：https://docs.swift.org/swift-book/LanguageGuide/StringsAndCharacters.html
 

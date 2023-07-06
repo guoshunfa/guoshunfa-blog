@@ -1,9 +1,10 @@
 ---
 title: 网络请求AJAX
 tags:
-  - ajax
+  - AJAX
+  - JS
 categories:
-  - 技术
+  - Html/CSS/JavaScript
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

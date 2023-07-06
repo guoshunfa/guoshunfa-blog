@@ -1,11 +1,12 @@
 ---
 title: Oracle Java接口和继承
 tags:
-	- oracle
-	- java
+  - Oracle
+  - Java
+  - 接口
 categories:
-	- 技术
-date: 2022-07-01 12:01:01
+  - Java
+date: 2020-07-01 12:01:01
 thumbnail:
 ---
 

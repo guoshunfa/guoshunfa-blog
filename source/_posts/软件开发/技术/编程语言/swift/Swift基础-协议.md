@@ -1,10 +1,10 @@
 ---
 title: Swift基础 协议
 tags:
-    - swift
+    - Swift
     - 基础
 categories:
-    - 技术
+    - Swift
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

@@ -1,11 +1,11 @@
 ---
 title: Oracle Java语言基础
 tags:
-    - oracle
-    - java
+    - Oracle
+    - Java
 categories:
-    - 技术
-date: 2022-07-01 12:01:01
+    - Java
+date: 2020-07-01 12:01:01
 thumbnail:
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: JS post方式打开新窗口
 tags:
-  - js
+  - JS
 categories:
-  - 技术
+  - HTML/CSS/JavaScript
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

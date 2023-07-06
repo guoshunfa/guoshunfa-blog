@@ -1,11 +1,11 @@
 ---
 title: Python ui自动化测试
 tags:
-  - python
+  - Python
   - 自动化测试
   - 测试
 categories:
-  - 技术
+  - Python
 date: 2022-06-28 10:52:46
 thumbnail:
 ---

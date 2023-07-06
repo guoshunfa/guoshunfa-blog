@@ -7,8 +7,8 @@ tags:
     - assert
     - 断言
 categories:
-    - 技术
-date: 2022-07-01 12:01:01
+    - Java
+date: 2020-07-01 12:01:01
 thumbnail:
 ---
 

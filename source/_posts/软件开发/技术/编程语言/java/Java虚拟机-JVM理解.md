@@ -1,16 +1,16 @@
 ---
 title: Java虚拟机 JVM理解
 tags:
-  - oracle
-  - java
-  - jvm
+  - Oracle
+  - Java
+  - JVM
 categories:
-  - 技术
-date: 2022-07-01 12:01:01
+  - Java
+date: 2020-07-01 12:01:01
 thumbnail:
 ---
 
-# Java虚拟机 - JVM理解
+
 
 ## 一、什么是JVM
 

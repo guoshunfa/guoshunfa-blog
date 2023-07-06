@@ -1,12 +1,12 @@
 ---
 title: Python scrapy爬虫
 tags:
-  - python
+  - Python
   - 脚本
-  - scrapy
+  - Scrapy
   - 爬虫
 categories:
-  - 技术
+  - Python
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

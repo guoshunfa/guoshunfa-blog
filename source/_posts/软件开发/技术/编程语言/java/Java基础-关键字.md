@@ -1,15 +1,13 @@
 ---
 title: Java基础 关键字
 tags:
-    - oracle
-    - java
+    - Oracle
+    - Java
 categories:
     - 技术
-date: 2022-07-01 12:01:01
+date: 2020-07-01 12:01:01
 thumbnail:
 ---
-
-# Java基础-关键字
 
 ## java 关键字 - transient
 

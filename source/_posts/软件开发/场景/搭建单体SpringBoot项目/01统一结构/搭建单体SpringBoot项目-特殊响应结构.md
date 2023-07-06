@@ -2,8 +2,8 @@
 title: 搭建单体SpringBoot项目 特殊响应结构
 tags:
     - SpringBoot
+    - Java
 categories:
-    - 技术
     - 搭建单体SpringBoot项目
 date: 2022-07-01 12:01:01
 thumbnail:

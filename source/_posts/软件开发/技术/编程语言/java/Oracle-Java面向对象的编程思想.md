@@ -1,11 +1,12 @@
 ---
 title: Oracle Java面向对象的编程思想
 tags:
-    - oracle
-    - java
+    - Oracle
+    - Java
+    - 面向对象
 categories:
-    - 技术
-date: 2022-07-01 12:01:01
+    - Java
+date: 2020-07-01 12:01:01
 thumbnail:
 ---
 > 本文章以jdk8为基础进行编写，如果想查看后续的版本可以前往jdk版本目录下查看。

@@ -1,16 +1,15 @@
 ---
 title: Python 脚本记录
 tags:
-    - python
+    - Python
     - 脚本
-    - 记录
 categories:
-    - 技术
+    - Python
 date: 2022-07-01 12:01:01
 thumbnail:
 ---
 
-::: details 批量替换文件夹内的文件内容
+
 
 ```python
 #-*- coding:utf-8 -*-

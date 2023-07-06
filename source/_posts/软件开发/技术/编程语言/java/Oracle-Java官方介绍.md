@@ -1,15 +1,13 @@
 ---
 title: Oracle Java官方介绍
 tags:
-    - oracle
-    - java
+    - Oracle
+    - Java
 categories:
-    - 技术
-date: 2022-07-01 12:01:01
+    - Java
+date: 2020-07-01 12:01:01
 thumbnail:
 ---
-# Oracle Java官方介绍
-
 > 本文章以jdk8为基础进行编写，如果想查看后续的版本可以前往jdk版本目录下查看。
 >
 > 翻译自：https://docs.oracle.com/javase/tutorial/getStarted/intro/definition.html

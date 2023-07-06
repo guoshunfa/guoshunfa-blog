@@ -1,14 +1,15 @@
 ---
 title: Oracle Java泛型
 tags:
-	- oracle
-	- java
+  - Oracle
+  - Java
+  - 泛型
 categories:
-	- 技术
-date: 2022-07-01 12:01:01
+  - Java
+date: 2020-07-01 12:01:01
 thumbnail:
 ---
-# Oracle Java 泛型
+
 
 > 本文章以jdk8为基础进行编写，如果想查看后续的版本可以前往jdk版本目录下查看。
 >

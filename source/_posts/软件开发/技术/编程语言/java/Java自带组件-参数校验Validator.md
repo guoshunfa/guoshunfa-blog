@@ -1,15 +1,15 @@
 ---
 title: Java自带组件 参数校验Validator
 tags:
-    - oracle
-    - java
-    - 组件
+    - Oracle
+    - Java
+    - Validator
 categories:
-    - 技术
-date: 2022-07-01 12:01:01
+    - Java
+date: 2020-07-01 12:01:01
 thumbnail:
 ---
-# Java自带组件 - 参数校验(Validator)
+
 
 应用在执行业务逻辑之前，必须通过校验保证接受到的输入数据是合法正确的，但很多时候同样的校验出现了多次，在不同的层，不同的方法上，导致代码冗余，浪费时间，违反DRY原则。
 

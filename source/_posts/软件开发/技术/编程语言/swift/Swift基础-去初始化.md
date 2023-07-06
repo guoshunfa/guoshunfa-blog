@@ -1,14 +1,14 @@
 ---
 title: Swift基础 去初始化
 tags:
-- swift
-- 基础
+  - Swift
+  - 基础
 categories:
-- 技术
+  - Swift
 date: 2022-07-01 12:01:01
 thumbnail:
 ---
-# Swift基础 - 去初始化
+
 
 翻译自：https://docs.swift.org/swift-book/LanguageGuide/Deinitialization.html
 

@@ -1,11 +1,11 @@
 ---
 title: Oracle Java注解
 tags:
-    - oracle
-    - java
+    - Oracle
+    - Java
 categories:
     - 技术
-date: 2022-07-01 12:01:01
+date: 2020-07-01 12:01:01
 thumbnail:
 ---
 

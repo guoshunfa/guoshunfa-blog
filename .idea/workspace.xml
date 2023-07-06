@@ -4,12 +4,84 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b24e62-dca5-4c45-bbf9-b3443ebd14ac" name="默认变更列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="16b24e62-dca5-4c45-bbf9-b3443ebd14ac" name="默认变更列表" comment="调整配置">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/links.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/links.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/pure/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/pure/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myscripts/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/myscripts/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/场景/乐观锁解决数据库并发修改问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/场景/乐观锁解决数据库并发修改问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/场景/如何搭建图床.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/场景/如何搭建图床.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/01统一结构/搭建单体SpringBoot项目-特殊响应结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/01统一结构/搭建单体SpringBoot项目-特殊响应结构.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/01统一结构/搭建单体SpringBoot项目-统一响应结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/01统一结构/搭建单体SpringBoot项目-统一响应结构.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/01统一结构/搭建单体SpringBoot项目-统一时间响应格式.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/01统一结构/搭建单体SpringBoot项目-统一时间响应格式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/01统一结构/搭建单体SpringBoot项目-集成Swagger接口文档.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/01统一结构/搭建单体SpringBoot项目-集成Swagger接口文档.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/SpringBoot框架-启动时输出文案.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/SpringBoot框架-基础知识.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/SpringBoot框架-官方介绍.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/SpringBoot框架-引入外部Jar包.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/SpringBoot框架-类的理解与使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/SpringBoot框架-项目启动时执行.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/SpringBoot框架常用类.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/SpringMVC-前后端传参.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/SpringSecurity框架官方介绍.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/SpringSecurity框架理解与使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/Spring介绍.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/Spring框架PackageInfo的使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/Spring框架SpringEvent.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/Spring框架Spring事务.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/框架/各大框架/spring/Spring调度任务.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/css/CSS-less基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/css/CSS-less基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java-设计模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java8版本特性.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java8版本特性.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/JavaDecompiler反编译工具.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/JavaDecompiler反编译工具.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java基础-spel表达式.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java基础-spel表达式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java基础-关键字.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java基础-关键字.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java基础-泛型.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java基础-泛型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java测试-Assert断言.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java测试-Assert断言.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java自带组件-参数校验Validator.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java自带组件-参数校验Validator.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java虚拟机-JVM理解.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Java虚拟机-JVM理解.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java-Numbers和Strings.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java-Numbers和Strings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java-Packages.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java-Packages.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java官方介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java官方介绍.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java异常.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java异常.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java接口和继承.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java接口和继承.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java泛型.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java泛型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java注解.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java注解.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java类和对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java类和对象.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java语言基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java语言基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java面向对象的编程思想.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/java/Oracle-Java面向对象的编程思想.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/js/JS-post方式打开新窗口.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/js/JS-post方式打开新窗口.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/js/网络请求AJAX.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/js/网络请求AJAX.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/python/Python-scrapy爬虫.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/python/Python-scrapy爬虫.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/python/Python-ui自动化测试.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/python/Python-ui自动化测试.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/python/Python-脚本记录.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/python/Python-脚本记录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-下标.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-下标.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-不透明的类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-不透明的类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-关于Swift.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-关于Swift.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-内存安全.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-内存安全.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-初始化.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-初始化.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-功能.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-功能.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-协议.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-协议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-去初始化.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-去初始化.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-可选链条.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-可选链条.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-基本运算符.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-基本运算符.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-基础知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-基础知识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-字符串和字符.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-字符串和字符.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-属性.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-属性.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-嵌套.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-嵌套.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-嵌套类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-嵌套类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-并发性.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-并发性.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-扩展.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-扩展.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-控制流程.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-控制流程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-枚举.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-枚举.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-类型铸造.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-类型铸造.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-结构和类.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-结构和类.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-继承.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-继承.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-自动参考计数.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-自动参考计数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-访问控制.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-访问控制.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-通用.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-通用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-错误处理.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-错误处理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-集合类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-集合类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-高级操作员.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/编程语言/swift/Swift基础-高级操作员.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +110,20 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "G:/软件开发/git仓库/guoshunfa-blog",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/软件开发/git仓库/guoshunfa-blog&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建一个单体springboot项目" />
@@ -114,8 +186,17 @@
       <workItem from="1688365342422" duration="290000" />
       <workItem from="1688372844126" duration="162000" />
       <workItem from="1688535583717" duration="268000" />
-      <workItem from="1688535869202" duration="4356000" />
+      <workItem from="1688535869202" duration="8259000" />
+      <workItem from="1688631094176" duration="901000" />
     </task>
+    <task id="LOCAL-00001" summary="调整配置">
+      <created>1688544687454</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688544687454</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +224,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="调整配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整配置" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

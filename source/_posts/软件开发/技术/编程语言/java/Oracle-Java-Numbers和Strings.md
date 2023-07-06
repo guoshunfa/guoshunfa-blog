@@ -1,10 +1,10 @@
 ---
 title: Oracle Java Numbers和Strings
 tags:
-    - oracle
-    - java
+    - Oracle
+    - Java
 categories:
-    - 技术
+    - Java
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

@@ -3,13 +3,13 @@ title: 搭建单体SpringBoot项目 集成Swagger接口文档
 tags:
     - SpringBoot
     - Swagger
+    - Java
 categories:
-    - 技术
     - 搭建单体SpringBoot项目
 date: 2022-07-01 12:01:01
 thumbnail:
 ---
-# 集成 Swagger(接口文档)
+
 
 > [Swagger官网](https://swagger.io/) | [Swagger官方Github主页](https://github.com/swagger-api) | [官方WIKI](https://github.com/swagger-api/swagger-core/wiki/Annotations-1.5.X#quick-annotation-overview) | [java doc](https://docs.swagger.io/swagger-core/v1.5.X/apidocs/)
 

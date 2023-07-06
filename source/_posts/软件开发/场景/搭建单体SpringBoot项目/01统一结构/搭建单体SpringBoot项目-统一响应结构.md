@@ -2,12 +2,14 @@
 title: 搭建单体SpringBoot项目 统一响应结构
 tags:
   - SpringBoot
+  - Java
 categories:
-  - 技术
   - 搭建单体SpringBoot项目
 date: 2022-07-01 12:01:01
 thumbnail:
 ---
+
+
 
 每个接口都需要有一个统一的响应结构。比如：
 

@@ -1,9 +1,10 @@
 ---
 title: CSS less 基础
 tags:
-  - js
+  - CSS
+  - less
 categories:
-  - 技术
+  - HTML/CSS/JavaScript
 date: 2022-07-01 12:01:01
 thumbnail:
 ---
