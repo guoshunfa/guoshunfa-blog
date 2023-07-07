@@ -2,10 +2,8 @@
 title: Linux问题记录
 tags:
   - linux
-  - 记录
-  - 问题
 categories:
-  - 技术
+  - 服务器管理
 date: 2022-07-01 11:08:16
 thumbnail:
 ---

@@ -1,9 +1,10 @@
 ---
 title: IDEA Maven依赖版本冲突
 tags:
-  - kafka
+  - IDEA
+  -	Maven
 categories:
-  - 技术
+  - 软件使用
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

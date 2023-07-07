@@ -2,9 +2,8 @@
 title: Mac 键盘快捷键记录
 tags:
   - mac
-  - 记录
 categories:
-  - 技术
+  - 服务器管理
 date: 2022-07-01 11:18:11
 thumbnail:
 ---

@@ -1,9 +1,9 @@
 ---
 title: Leetcode第1题 两数之和
 tags:
-  - leetcode
+  - Leetcode
 categories:
-  - 技术
+  - 算法
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

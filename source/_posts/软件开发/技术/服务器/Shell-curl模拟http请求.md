@@ -1,11 +1,11 @@
 ---
 title: Shell curl模拟http请求
 tags:
-  - shell
-  - curl
-  - http
+  - Shell
+  - Curl
+  - Http
 categories:
-  - 技术
+  - 服务器管理
 date: 2022-07-01 11:25:33
 thumbnail:
 ---

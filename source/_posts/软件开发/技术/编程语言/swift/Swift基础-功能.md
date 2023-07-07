@@ -8,7 +8,7 @@ categories:
 date: 2022-07-01 12:01:01
 thumbnail:
 ---
-# Swift基础 - 功能(Functions)
+
 
 翻译自：https://docs.swift.org/swift-book/LanguageGuide/Functions.html
 

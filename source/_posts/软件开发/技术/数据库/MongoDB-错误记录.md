@@ -1,11 +1,9 @@
 ---
 title: MongoDB 错误记录
 tags:
-  - mongodb
-  - 错误
-  - 记录
+  - MongoDB
 categories:
-  - 技术
+  - 数据库
 date: 2022-07-01 11:38:29
 thumbnail:
 ---

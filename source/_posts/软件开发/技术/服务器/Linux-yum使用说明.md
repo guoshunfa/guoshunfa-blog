@@ -3,9 +3,8 @@ title: Linux yum使用说明
 tags:
   - linux
   - yum
-  - 介绍
 categories:
-  - 技术
+  - 服务器管理
 date: 2022-07-01 11:09:31
 thumbnail:
 ---

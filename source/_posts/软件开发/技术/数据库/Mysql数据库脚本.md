@@ -1,11 +1,10 @@
 ---
 title: Mysql数据库脚本
 tags:
-  - mysql
-  - sql
+  - Mysql
   - 脚本
 categories:
-  - 技术
+  - 数据库
 date: 2022-07-01 10:59:54
 thumbnail:
 ---

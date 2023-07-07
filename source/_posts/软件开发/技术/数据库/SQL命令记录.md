@@ -1,11 +1,11 @@
 ---
 title: SQL命令记录
 tags:
-  - sql
-  - mysql
-  - oracle
+  - SQL
+  - Mysql
+  - Oracle
 categories:
-  - 技术
+  - 数据库
 date: 2022-07-01 10:59:08
 thumbnail:
 ---

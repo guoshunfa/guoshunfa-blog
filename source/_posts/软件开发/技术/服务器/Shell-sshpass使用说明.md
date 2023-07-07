@@ -1,10 +1,10 @@
 ---
 title: Shell sshpass使用说明
 tags:
-  - shell
+  - Shell
   - sshpass
 categories:
-  - 技术
+  - 服务器管理
 date: 2022-07-01 11:33:42
 thumbnail:
 ---

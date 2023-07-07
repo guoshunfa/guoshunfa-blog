@@ -1,11 +1,9 @@
 ---
 title: MongoDB 命令记录
 tags:
-  - mongodb
-  - 记录
-  - 命令
+  - MongoDB
 categories:
-  - 技术
+  - 数据库
 date: 2022-07-01 11:37:06
 thumbnail:
 ---

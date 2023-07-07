@@ -1,11 +1,9 @@
 ---
 title: Redis 错误日志记录
 tags:
-  - redis
-  - 错误
-  - 记录
+  - Redis
 categories:
-  - 技术
+  - 数据库
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

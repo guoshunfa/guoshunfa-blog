@@ -1,9 +1,10 @@
 ---
 title: IDEA 实用插件
 tags:
-  - kafka
+  - IDEA
+  -	插件
 categories:
-  - 技术
+  - 软件使用
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

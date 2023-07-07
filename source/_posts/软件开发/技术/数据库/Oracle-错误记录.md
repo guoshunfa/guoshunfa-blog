@@ -1,11 +1,9 @@
 ---
 title: Oracle 错误记录
 tags:
-    - oracle
-    - 错误
-    - 记录
+    - Oracle
 categories:
-    - 技术
+    - 数据库
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

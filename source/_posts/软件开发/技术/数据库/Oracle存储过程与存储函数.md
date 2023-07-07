@@ -1,11 +1,11 @@
 ---
 title: Oracle存储过程与存储函数
 tags:
-  - oracle
+  - Oracle
   - 存储过程
   - 存储函数
 categories:
-  - 技术
+  - 数据库
 date: 2022-07-01 11:03:53
 thumbnail:
 ---

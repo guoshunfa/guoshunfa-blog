@@ -1,10 +1,11 @@
 ---
 title: MongoDB执行JS脚本
 tags:
-  - mongodb
+  - MongoDB
   - 脚本
+  -	HTML/CSS/JavaScript
 categories:
-  - 技术
+  - 数据库
 date: 2022-07-01 11:05:39
 thumbnail:
 ---

@@ -4,7 +4,7 @@ tags:
   - AJAX
   - JS
 categories:
-  - Html/CSS/JavaScript
+  - HTML/CSS/JavaScript
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

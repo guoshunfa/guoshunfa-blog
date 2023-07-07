@@ -1,13 +1,13 @@
 ---
 title: SQL预编译
 tags:
- - sql
+  - SQL
 categories:
- - 技术
+  - 数据库
 date: 2022-07-01 12:01:01
 thumbnail:
 ---
-# SQL预编译
+
 
 > 作者：嘻洋洋
 > 链接：https://www.jianshu.com/p/9972d7b33061

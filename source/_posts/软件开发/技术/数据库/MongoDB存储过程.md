@@ -1,10 +1,10 @@
 ---
 title: MongoDB存储过程
 tags:
-  - mongodb
+  - MongoDB
   - 存储过程
 categories:
-  - 技术
+  - 数据库
 date: 2022-07-01 11:06:37
 thumbnail:
 ---

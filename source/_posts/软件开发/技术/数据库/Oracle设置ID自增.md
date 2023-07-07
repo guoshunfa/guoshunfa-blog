@@ -1,9 +1,9 @@
 ---
 title: Oracle 设置ID自增
 tags:
-  - oracle
+  - Oracle
 categories:
-  - 技术
+  - 数据库
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

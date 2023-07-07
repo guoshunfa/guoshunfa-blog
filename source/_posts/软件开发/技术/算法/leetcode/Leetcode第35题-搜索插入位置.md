@@ -1,9 +1,9 @@
 ---
 title: Leetcode第35题 搜索插入位置
 tags:
-    - leetcode
+    - Leetcode
 categories:
-    - 技术
+    - 算法
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

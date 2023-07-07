@@ -1,10 +1,9 @@
 ---
 title: Oracle 介绍
 tags:
-    - oracle
-    - 介绍
+    - Oracle
 categories:
-    - 技术
+    - 数据库
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

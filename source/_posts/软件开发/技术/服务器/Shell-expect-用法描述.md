@@ -1,10 +1,10 @@
 ---
 title: Shell expect用法描述
 tags:
-  - shell
-  - expect
+  - Shell
+  - Expect
 categories:
-  - 技术
+  - 服务器管理
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

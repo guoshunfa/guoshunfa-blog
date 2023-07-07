@@ -1,10 +1,10 @@
 ---
 title: Shell Linux防火墙和端口
 tags:
-  - shell
+  - Shell
   - linux
 categories:
-  - 技术
+  - 服务器管理
 date: 2022-07-01 11:27:36
 thumbnail:
 ---

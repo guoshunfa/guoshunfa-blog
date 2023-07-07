@@ -3,7 +3,7 @@ title: Mysql 修改root账号密码
 tags:
   - Mysql
 categories:
-  - 技术
+  - 数据库
 date: 2022-07-01 11:40:38
 thumbnail:
 ---

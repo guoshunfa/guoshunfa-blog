@@ -1,10 +1,9 @@
 ---
 title: Redis 介绍
 tags:
-  - redis
-  - 介绍
+  - Redis
 categories:
-  - 技术
+  - 数据库
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

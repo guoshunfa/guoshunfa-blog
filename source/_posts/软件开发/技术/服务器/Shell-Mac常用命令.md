@@ -1,12 +1,10 @@
 ---
 title: Shell Mac常用命令
 tags:
-  - shell
-  - mac
-  - 命令
-  - 记录
+  - Shell
+  - Mac
 categories:
-  - 技术
+  - 服务器管理
 date: 2022-07-01 11:28:24
 thumbnail:
 ---

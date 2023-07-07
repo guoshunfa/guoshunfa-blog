@@ -1,9 +1,9 @@
 ---
 title: Shell 增加自定义参数
 tags:
-  - shell
+  - Shell
 categories:
-  - 技术
+  - 服务器管理
 date: 2022-07-01 11:32:38
 thumbnail:
 ---

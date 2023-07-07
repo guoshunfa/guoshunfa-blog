@@ -1,9 +1,9 @@
 ---
 title: Shell 文件相关操作
 tags:
-  - shell
+  - Shell
 categories:
-  - 技术
+  - 服务器管理
 date: 2022-07-01 11:26:20
 thumbnail:
 ---

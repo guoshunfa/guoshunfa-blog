@@ -1,9 +1,10 @@
 ---
 title: IDEA Debug调试
 tags:
-  - kafka
+  - IDEA
+  -	Debug
 categories:
-  - 技术
+  - 软件使用
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

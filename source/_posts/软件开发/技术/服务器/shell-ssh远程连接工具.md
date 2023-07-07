@@ -1,10 +1,10 @@
 ---
 title: shell ssh远程连接工具
 tags:
-  - shell
+  - Shell
   - ssh
 categories:
-  - 分类
+  - 服务器管理
 date: 2022-07-01 11:24:28
 thumbnail:
 ---

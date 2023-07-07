@@ -3,9 +3,8 @@ title: Mac系统安装Docker
 tags:
     - mac
     - docker
-    - 安装
 categories:
-    - 技术
+    - 服务器管理
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

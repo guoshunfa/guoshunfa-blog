@@ -2,10 +2,8 @@
 title: Mac 问题记录
 tags:
   - mac
-  - 问题
-  - 记录
 categories:
-  - 技术
+  - 服务器管理
 date: 2022-07-01 11:11:58
 thumbnail:
 ---

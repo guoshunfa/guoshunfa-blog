@@ -1,9 +1,9 @@
 ---
 title: Leetcode第278题 第一个错误的版本
 tags:
-    - leetcode
+    - Leetcode
 categories:
-    - 技术
+    - 算法
 date: 2022-07-01 12:01:01
 thumbnail:
 ---

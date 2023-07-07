@@ -3,9 +3,8 @@ title: Mac Homebrew使用说明
 tags:
   - mac
   - homebrew
-  - brew
 categories:
-  - 技术
+  - 服务器管理
 date: 2022-07-01 11:12:50
 thumbnail:
 ---

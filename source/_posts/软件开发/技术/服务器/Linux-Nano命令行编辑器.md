@@ -2,9 +2,9 @@
 title: Linux Nano命令行编辑器
 tags:
   - linux
-  - nano
+  - Nano
 categories:
-  - 技术
+  - 服务器管理
 date: 2022-07-01 11:10:51
 thumbnail:
 ---

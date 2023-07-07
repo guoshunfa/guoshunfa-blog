@@ -1,10 +1,9 @@
 ---
 title: MongoDB 介绍
 tags:
-  - mongodb
-  - 介绍
+  - MongoDB
 categories:
-  - 技术
+  - 数据库
 date: 2022-07-01 11:36:20
 thumbnail:
 ---

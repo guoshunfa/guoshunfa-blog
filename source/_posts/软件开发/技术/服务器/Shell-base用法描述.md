@@ -1,10 +1,9 @@
 ---
 title: Shell base用法描述
 tags:
-  - shell
-  - base
+  - Shell
 categories:
-  - 技术
+  - 服务器管理
 date: 2022-07-01 11:30:05
 thumbnail:
 ---

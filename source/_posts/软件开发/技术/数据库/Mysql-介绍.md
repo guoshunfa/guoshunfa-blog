@@ -1,10 +1,9 @@
 ---
 title: Mysql 介绍
 tags:
-  - mysql
-  - 介绍
+  - Mysql
 categories:
-  - 技术
+  - 数据库
 date: 2022-07-01 12:01:01
 thumbnail:
 ---
