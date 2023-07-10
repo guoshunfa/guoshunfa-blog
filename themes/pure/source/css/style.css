@@ -4155,7 +4155,7 @@ svg {
 }
 
 .thumb-md {
-  width: 64px;
+  width: 100px;
   display: inline-block;
   overflow: hidden;
 }
@@ -4729,6 +4729,7 @@ a.label:focus {
   margin-bottom: 21px;
   background-color: #fff;
   border: 1px solid #f2f2f2;
+  min-height: 100px;
 }
 
 .panel .article-title {
@@ -7933,6 +7934,7 @@ body.okayNav-loaded {
 
   .col-md-4 {
     width: 33.33333%;
+    min-height: 140px;
   }
 
   .col-md-5 {
