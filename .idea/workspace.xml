@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16b24e62-dca5-4c45-bbf9-b3443ebd14ac" name="默认变更列表" comment="调整友联">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/01统一结构/搭建单体SpringBoot项目-集成Swagger接口文档.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/tools/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/tools/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot2集成Swagger.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot2集成Swagger.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot3集成Swagger.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot3集成Swagger.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,21 +38,13 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "G:/软件开发/git仓库/guoshunfa-blog",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建一个单体springboot项目" />
@@ -177,6 +168,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

@@ -7,7 +7,7 @@ tags:
 categories:
     - SpringBoot
 date: 2023-07-11 14:52:01
-thumbnail:
+thumbnail: /2023/07/SpringBoot3集成Swagger/swagger_logo.svg
 ---
 
 > Swagger: [Swagger官网](https://swagger.io/) | [Swagger官方Github主页](https://github.com/swagger-api) | [Swagegr Core Github](https://github.com/swagger-api/swagger-core) | [Swagger 官方WIKI](https://github.com/swagger-api/swagger-core/wiki/)

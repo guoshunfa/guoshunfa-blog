@@ -7,7 +7,7 @@ tags:
 categories:
     - SpringBoot
 date: 2023-07-11 12:01:01
-thumbnail:
+thumbnail: /2023/07/SpringBoot2集成Swagger/swagger_logo.svg
 ---
 
 
