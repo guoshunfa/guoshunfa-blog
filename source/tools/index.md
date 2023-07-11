@@ -8,35 +8,22 @@ title: 工具箱
     <title>🔧</title>
     <script type="text/javascript">
         var  toolGroups = {
-            "常用小工具": [
+            "常用": [
+                {'name': 'Spring Initializr','link': 'https://start.spring.io/','desc': ''},
+                {'name': '流程图设计', 'link': 'https://app.diagrams.net/', 'desc': ''} ,
                 {'name': 'JSON格式化','link': 'https://www.bejson.com/jsonviewernew/','desc': ''},
                 {'name': '时间戳转换','link': 'http://tool.chinaz.com/tools/unixtime.aspx','desc': ''},
                 {'name': 'codepen','link': 'https://codepen.io/','desc': ''},
                 {'name': 'BootCDN','link': 'https://www.bootcdn.cn','desc': ''},
-                {'name': 'Can I use','link': 'https://caniuse.com/','desc': '查看属性和方法的兼容性'},
-                {'name': '30 seconds of code','link': 'https://30secondsofcode.org/','desc': '收集了许多有用的代码小片段'},
-                {'name': 'codepen','link': 'https://codepen.io','desc': '在线代码编辑与演示'},
-                {'name': 'codesandbox','link': 'https://codesandbox.io','desc': '内嵌VSCode的在线IDE'},
-                {'name': '手册网','link': 'https://www.shouce.ren/','desc': ''},
-                {'name': 'JSON格式化','link': 'https://www.bejson.com/jsonviewernew/','desc': ''},
-                {'name': '时间戳转换','link': 'http://tool.chinaz.com/tools/unixtime.aspx','desc': ''},
                 {'name': '单位转换','link': 'https://www.convertworld.com/zh-hans/','desc': ''},
                 {'name': '文件转换器','link': 'https://convertio.co/zh/','desc': ''},
                 {'name': '代码/文本 对比工具','link': 'https://www.diffchecker.com/','desc': ''},
                 {'name': 'PDF 转 Markdown','link': 'https://pdf2md.morethan.io/','desc': ''},
                 {'name': '加密/解密','link': 'http://tool.chinaz.com/tools/textencrypt.aspx','desc': ''},
-                {'name': 'VideoFk','link': 'https://www.videofk.com/','desc': 'VideoFk 视频在线解析下载'},
                 {'name': 'vectorizer','link': 'https://www.vectorizer.io/','desc': '真正的 png 转 svg 神器'},
                 {'name': 'tinypng图片压缩','link': 'https://tinypng.com','desc': '压缩png很有用'},
                 {'name': '图片压缩','link': 'https://docsmall.com/','desc': ''},
                 {'name': 'Squoosh','link': 'https://squoosh.app/','desc': '谷歌出品在线免费图片压缩工具'},
-                {'name': 'CSS Tricks','link': 'http://css-tricks.neatbang.com/','desc': 'CSS技巧收集与演示'},
-                {'name': 'CSS生成器', 'link': 'https://neumorphism.io/', 'desc': ''} ,
-                {'name': 'CSS渐变生成器', 'link': 'https://www.colorzilla.com/gradient-editor/', 'desc': ''} ,
-                {'name': 'CSS3-Box Shadow(阴影)', 'link': 'https://www.html.cn/tool/css3Preview/Box-Shadow.html', 'desc': ''} ,
-                {'name': '贝塞尔曲线生成器', 'link': 'https://cubic-bezier.com', 'desc': ''} ,
-                {'name': '花纹背景生成器', 'link': 'http://www.heropatterns.com/', 'desc': ''} ,
-                {'name': '花纹背景css', 'link': 'https://github.com/bansal-io/pattern.css', 'desc': ''} ,
                 {'name': 'jsDelivr', 'link': 'http://www.jsdelivr.com/', 'desc': ''} ,
                 {'name': 'unpkg', 'link': 'https://unpkg.com/', 'desc': ''} ,
                 {'name': '正则可视化', 'link': 'https://regex101.com/', 'desc': ''} ,
@@ -45,8 +32,13 @@ title: 工具箱
                 {'name': '代码图片生成器', 'link': 'https://carbon.now.sh/', 'desc': ''} ,
                 {'name': '图片转文字', 'link': 'https://web.baimiaoapp.com/', 'desc': ''} ,
                 {'name': 'JSON 转换 Excel', 'link': 'http://j2e.kpoda.com', 'desc': ''} ,
-                {'name': '精校 完整 极致 Windows系统下载仓储站', 'link': 'https://www.hellowindows.cn/', 'desc': ''} ,
-                {'name': '流程图设计', 'link': 'https://app.diagrams.net/', 'desc': ''} ,
+            ],
+            "开发" :[
+                {'name': 'Can I use','link': 'https://caniuse.com/','desc': '查看属性和方法的兼容性'},
+                {'name': '30 seconds of code','link': 'https://30secondsofcode.org/','desc': '收集了许多有用的代码小片段'},
+                {'name': 'codepen','link': 'https://codepen.io','desc': '在线代码编辑与演示'},
+                {'name': 'codesandbox','link': 'https://codesandbox.io','desc': '内嵌VSCode的在线IDE'},
+                {'name': '手册网','link': 'https://www.shouce.ren/','desc': ''},
             ],
             "API": [
                 {'name': 'Java', 'link': 'https://docs.oracle.com/en/java/javase/index.html', 'desc': ''} ,
@@ -149,6 +141,13 @@ title: 工具箱
                 {'name': 'cruip', 'link': 'https://cruip.com/', 'desc': ''} ,
                 {'name': 'Comixify', 'link': 'https://comixify.ii.pw.edu.pl/', 'desc': ''} ,
                 {'name': 'taiko-web', 'link': 'https://github.com/bui/taiko-web', 'desc': ''} ,
+                {'name': 'CSS Tricks','link': 'http://css-tricks.neatbang.com/','desc': 'CSS技巧收集与演示'},
+                {'name': 'CSS生成器', 'link': 'https://neumorphism.io/', 'desc': ''} ,
+                {'name': 'CSS渐变生成器', 'link': 'https://www.colorzilla.com/gradient-editor/', 'desc': ''} ,
+                {'name': 'CSS3-Box Shadow(阴影)', 'link': 'https://www.html.cn/tool/css3Preview/Box-Shadow.html', 'desc': ''} ,
+                {'name': '贝塞尔曲线生成器', 'link': 'https://cubic-bezier.com', 'desc': ''} ,
+                {'name': '花纹背景生成器', 'link': 'http://www.heropatterns.com/', 'desc': ''} ,
+                {'name': '花纹背景css', 'link': 'https://github.com/bansal-io/pattern.css', 'desc': ''} ,
             ],
             "娱乐": [
                 {'name': '慕课网', 'link': 'https://www.imooc.com/', 'desc': ''} ,
@@ -179,6 +178,8 @@ title: 工具箱
                 {'name': 'macapp', 'link': 'https://www.macapp.so/', 'desc': ''} ,
                 {'name': 'appstorrent', 'link': 'https://appstorrent.ru/32-pixelmator-pro.html', 'desc': ''} ,
                 {'name': '大力盘', 'link': 'https://dalipan.com/', 'desc': ''} ,
+                {'name': '精校 完整 极致 Windows系统下载仓储站', 'link': 'https://www.hellowindows.cn/', 'desc': ''} ,
+                {'name': 'VideoFk','link': 'https://www.videofk.com/','desc': 'VideoFk 视频在线解析下载'},
             ],
             "接项目平台": [
                 {'name': '云队友', 'link': 'https://www.duiyou360.com/', 'desc': ''} ,
@@ -191,7 +192,7 @@ title: 工具箱
                 {'name': '猿急送', 'link': 'https://www.yuanjisong.com', 'desc': ''} ,
                 {'name': '开发邦', 'link': 'https://www.kaifabang.com', 'desc': ''} ,
             ]
-        }
+        };
         for(var toolGroupName in  toolGroups){
             document.write('<div style="display: flex;flex-wrap: wrap;"><h2 style="width: 80%;height: 40px;">'+toolGroupName+'</h2>');
             for(var tool of  toolGroups[toolGroupName]){
