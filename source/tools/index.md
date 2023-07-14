@@ -9,6 +9,7 @@ title: 工具箱
     <script type="text/javascript">
         var  toolGroups = {
             "常用": [
+                {'name': 'vercel','link': 'https://vercel.com/','desc': '静态网站部署'},
                 {'name': 'Spring Initializr','link': 'https://start.spring.io/','desc': ''},
                 {'name': '流程图设计', 'link': 'https://app.diagrams.net/', 'desc': ''} ,
                 {'name': 'JSON格式化','link': 'https://www.bejson.com/jsonviewernew/','desc': ''},

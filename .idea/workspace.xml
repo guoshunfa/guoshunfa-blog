@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16b24e62-dca5-4c45-bbf9-b3443ebd14ac" name="默认变更列表" comment="调整友联">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot2集成Swagger.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot2集成Swagger.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot3集成Swagger.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot3集成Swagger.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myscripts/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/myscripts/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/tools/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/tools/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/pure/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/pure/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +168,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

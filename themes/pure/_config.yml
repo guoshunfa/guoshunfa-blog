@@ -211,7 +211,7 @@ profile:
   social:
     links:
       github: https://github.com/guoshunfa
-      gitee: https://github.com/guoshunfa
+      gitee: https://gitee.com/guoshunfa
       juejin: https://juejin.cn/user/166781500267015
       code: https://cloud.tencent.com/developer/user/7784141
       rss: atom.xml
@@ -219,7 +219,7 @@ profile:
   # My Skills 
   skills:
     Java: ★★★☆☆
-    Spring: ★★☆☆☆
+    Spring: ★★★☆☆
     HTML+CSS+JS: ★☆☆☆☆
     Vue: ★☆☆☆☆
     Linux: ★★☆☆☆
@@ -233,9 +233,9 @@ profile:
     掘金: https://juejin.cn/user/166781500267015
     CSDN: https://blog.csdn.net/weixin_44450947
     博客园: https://home.cnblogs.com/u/guoshunfa
-    B站: https://space.bilibili.com/394944784?spm_id_from=333.337.0.0
-    简书: https://www.jianshu.com/u/bdf3be38c0ba
-    小红书: https://www.xiaohongshu.com/user/profile/61664235000000000201a889
+#    B站: https://space.bilibili.com/394944784?spm_id_from=333.337.0.0
+#    简书: https://www.jianshu.com/u/bdf3be38c0ba
+#    小红书: https://www.xiaohongshu.com/user/profile/61664235000000000201a889
   # 我的个人标签
   labels:
     - JAVA后端
