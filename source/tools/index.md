@@ -198,11 +198,17 @@ title: 工具箱
             document.write('<div style="display: flex;flex-wrap: wrap;"><h2 style="width: 80%;height: 40px;">'+toolGroupName+'</h2>');
             for(var tool of  toolGroups[toolGroupName]){
                 var desc = tool['desc'] === '' ? '' : '（'+tool['desc']+'）'
-                document.write('<a href="'+tool['link']+'" style="width: 25%;min-height: 30px;" target="_blank">'+tool['name']+desc+'</a>');
+                document.write('<a href="'+tool['link']+'" class="tool" target="_blank">'+tool['name']+desc+'</a>');
             }
             document.write('</div><br/>');
         }
  </script>
+ <style scoped>
+    .tool {
+        width: 25%;
+        min-height: 30px;
+    }
+ </style>
 </head>
 <body>
 </body>
