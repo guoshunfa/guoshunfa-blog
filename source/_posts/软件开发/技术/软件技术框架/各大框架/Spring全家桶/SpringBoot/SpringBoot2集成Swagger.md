@@ -11,9 +11,7 @@ thumbnail: /2023/07/SpringBoot2集成Swagger/swagger_logo.svg
 ---
 
 
-> [Swagger官网](https://swagger.io/) | [Swagger官方Github主页](https://github.com/swagger-api) | [Swagegr Core Github](https://github.com/swagger-api/swagger-core) | [Swagger 官方WIKI](https://github.com/swagger-api/swagger-core/wiki/)
->
-> [文章Github仓库](https://github.com/guoshunfa/guoshunfa-spring-demo/blob/b50ebda626b979a3cff7c62b3a4523b9437d43b3/01.SpringBoot/SpringBoot%E9%9B%86%E6%88%90%E7%BB%84%E4%BB%B6%E5%BA%93/springboot-2-swagger-demo)
+> 文章仓库：[Github Project](https://github.com/guoshunfa/guoshunfa-spring-demo/tree/97f59e0921f21bfd09e864a34e646efa2eeff4d8/01.SpringBoot/SpringBoot%E9%9B%86%E6%88%90%E7%BB%84%E4%BB%B6%E5%BA%93/springboot-2-swagger-demo)
 
 # 前提
 
@@ -714,3 +712,9 @@ public class BasePathModifier implements ReaderListener {
 
 将允许您从系统属性覆盖生成的 basePath。
 
+# 参考文档
+
+- [Swagger官网](https://swagger.io/) 
+- [Swagger官方Github主页](https://github.com/swagger-api)
+- [Swagegr Core Github](https://github.com/swagger-api/swagger-core)
+- [Swagger 官方WIKI](https://github.com/swagger-api/swagger-core/wiki/)

@@ -10,13 +10,7 @@ date: 2023-07-11 14:52:01
 thumbnail: /2023/07/SpringBoot3集成Swagger/swagger_logo.svg
 ---
 
-> Swagger: [Swagger官网](https://swagger.io/) | [Swagger官方Github主页](https://github.com/swagger-api) | [Swagegr Core Github](https://github.com/swagger-api/swagger-core) | [Swagger 官方WIKI](https://github.com/swagger-api/swagger-core/wiki/)
->
-> SpringDoc: [SpringDoc官网](https://springdoc.org/) | [SpringDoc Github](https://github.com/springdoc) | [springdoc-openapi Github](https://github.com/springdoc/springdoc-openapi)
->
-> 
->
-> [本文章Github仓库](https://github.com/guoshunfa/guoshunfa-spring-demo/blob/b50ebda626b979a3cff7c62b3a4523b9437d43b3/01.SpringBoot/SpringBoot%E9%9B%86%E6%88%90%E7%BB%84%E4%BB%B6%E5%BA%93/springboot-3-swagger-demo)
+> 文章项目：[Github Project](https://github.com/guoshunfa/guoshunfa-spring-demo/tree/97f59e0921f21bfd09e864a34e646efa2eeff4d8/01.SpringBoot/SpringBoot%E9%9B%86%E6%88%90%E7%BB%84%E4%BB%B6%E5%BA%93/springboot-3-swagger-demo)
 
 # 前提
 
@@ -319,6 +313,22 @@ springdoc.pathsToMatch=/v1, /api/balance/**
 # 参考文章
 
 - [Springdoc-OpenAPI v2.1.0](https://springdoc.org/)
+
+- [Swagger官网](https://swagger.io/)
+
+- [Swagger官方Github主页](https://github.com/swagger-api)
+
+- [Swagegr Core Github](https://github.com/swagger-api/swagger-core)
+
+- [Swagger 官方WIKI](https://github.com/swagger-api/swagger-core/wiki/)
+
+- [SpringDoc官网](https://springdoc.org/)
+
+- [SpringDoc Github](https://github.com/springdoc)
+
+- [springdoc-openapi Github](https://github.com/springdoc/springdoc-openapi)
+
+  
 
 # 了解更多
 
