@@ -33,7 +33,7 @@ site:
     url: images/avatar.jpg
   title: guoshunfa # 页面title
   favicon: favicon.jpg
-  board: <p>平台正在整合老平台资源，增强文章质量，这段期间文章的链接可能会变动!</p><hr/><a href="https://www.oracle.com/cn/java/">前往Java官网<a/><br/><a href="https://spring.io/">前往Spring官网<a/> # 站点公告
+  board: <p>欢迎来到www.guoshunfa.com。</p><hr/><a href="https://www.oracle.com/cn/java/">前往Java官网<a/><br/><a href="https://spring.io/">前往Spring官网<a/> # 站点公告
   copyright: true # 底部版权信息
 
 # config

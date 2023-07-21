@@ -10,7 +10,7 @@ date: 2023-07-18 09:14:01
 thumbnail: /2023/07/SpringBoot3集成Quartz极简版/logo-quartz-scheduler.png
 ---
 
-> 文章项目：[Github Project](https://github.com/guoshunfa/guoshunfa-spring-demo/tree/aad3024d90464d15c3bdad328b10dca781cc175a/01.SpringBoot/SpringBoot%E9%9B%86%E6%88%90%E7%BB%84%E4%BB%B6%E5%BA%93/springboot-3-quartz-demo)
+> 文章项目：[Github Project](https://github.com/guoshunfa/guoshunfa-spring-demo/tree/6eceffc74282e750350a9eec6d26572d73f3fcdb/01.SpringBoot/SpringBoot%E9%9B%86%E6%88%90%E7%BB%84%E4%BB%B6%E5%BA%93/springboot-3-quartz-demo)
 
 # 前提
 
@@ -271,3 +271,4 @@ public class HelloJob implements Job {
 # 参考文章
 
 - [Configuration Reference (quartz-scheduler.org)](http://www.quartz-scheduler.org/documentation/quartz-2.3.0/configuration/)
+
