@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b24e62-dca5-4c45-bbf9-b3443ebd14ac" name="默认变更列表" comment="202307191630">
-      <change afterPath="$PROJECT_DIR$/source/_drafts/2023年8月份旅游攻略.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot3集成Quartz详细版.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot3集成Quartz详细版/logo-quartz-scheduler.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot3集成Quartz详细版/quartz_cluster.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2023_7_11__17_22____.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023_7_11,_17_22_取消提交了变更_[默认变更列表]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="16b24e62-dca5-4c45-bbf9-b3443ebd14ac" name="默认变更列表" comment="20230725">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2023_7_14_8_16____.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023_7_14_8_16_取消提交了更改_[默认变更列表]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/links.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/links.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot3集成Quartz极简版.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot3集成Quartz极简版.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/pure/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/pure/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot3集成Quartz详细版.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件开发/技术/软件技术框架/各大框架/Spring全家桶/SpringBoot/SpringBoot3集成Quartz详细版.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +46,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -135,6 +132,7 @@
       <workItem from="1688631094176" duration="2151000" />
       <workItem from="1688688957478" duration="1189000" />
       <workItem from="1688691325499" duration="16922000" />
+      <workItem from="1690178094335" duration="1016000" />
     </task>
     <task id="LOCAL-00001" summary="调整配置">
       <created>1688544687454</created>
@@ -192,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689755537320</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="202307211608">
+      <created>1689926922489</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689926922490</updated>
+    </task>
+    <task id="LOCAL-00010" summary="20230725">
+      <created>1690275789585</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690275789585</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +244,9 @@
     <MESSAGE value="调整工具包样式管理" />
     <MESSAGE value="202307181007" />
     <MESSAGE value="202307191630" />
-    <option name="LAST_COMMIT_MESSAGE" value="202307191630" />
+    <MESSAGE value="202307211608" />
+    <MESSAGE value="20230725" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230725" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

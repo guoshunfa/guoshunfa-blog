@@ -14,7 +14,7 @@ thumbnail: /2023/07/SpringBoot3集成Quartz极简版/logo-quartz-scheduler.png
 
 # 简介
 
-本文章会描述如何用SpringBoot更好的集成Quartz定时器，从Quartz配置、如何持久化、如何设计等方面进行描述。
+本文章会描述如何用SpringBoot更好的集成Quartz定时器，从Quartz配置、如何持久化、如何设计等方面进行描述。本文章不
 
 
 
