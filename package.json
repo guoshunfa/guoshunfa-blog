@@ -6,7 +6,6 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "sh myscripts/deploy.sh",
-    "mac-clean": "sh myscripts/clean-mac.sh",
     "git-push": "sh myscripts/git-push.sh",
     "server": "hexo server"
   },

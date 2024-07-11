@@ -51,7 +51,7 @@ config:
 # 分页
 pagination:
   number: true
-  prev: 
+  prev:
     alwayShow: true
   next:
     alwayShow: true
@@ -61,9 +61,9 @@ pagination:
 # Sidebar
 sidebar: right
 widgets:
-  - board  
+  - board
   - category
-  - tag  
+  - tag
   - tagcloud
   - archive
   - recent_posts
@@ -94,8 +94,8 @@ donate:
     qrcode: images/donate/wechatpayimg.png
     title: 微信支付
   # 支付宝打赏
-  alipay: 
-    qrcode: images/donate/alipayimg.png 
+  alipay:
+    qrcode: images/donate/alipayimg.png
     title: 支付宝
 
 # Share
@@ -106,7 +106,7 @@ share:
   mobile_sites: weibo,qq,qzone  # 移动端显示的分享图标
 
 # Github
-github: 
+github:
   username: guoshunfa  # github username
 
 # Repository Info (This will override 'github' option)
@@ -121,15 +121,15 @@ repository:
 comment:
   type: gitalk  # 启用哪种评论系统
   disqus:  # enter disqus shortname here
-  youyan: 
-    uid: 1783844 # enter youyan uid 
+  youyan:
+    uid: 1783844 # enter youyan uid
   livere:
-    uid: # enter youyan uid 
+    uid: # enter youyan uid
   gitment:
-    githubID: 
-    repo: 
-    ClientID: 
-    ClientSecret: 
+    githubID:
+    repo:
+    ClientID:
+    ClientSecret:
     lazy: false
   gitalk: # gitalk. https://gitalk.github.io/ & 问题解答： https://cuiqingcai.com/30010.html
     owner: guoshunfa #必须. GitHub repository 所有者，可以是个人或者组织。
@@ -139,7 +139,7 @@ comment:
     ClientSecret: 43872fab04fe0accb98439ac77ff71ff81f7b9dd #必须. GitHub Application Client Secret.
     enableHotKey: true
     language: zh-CN
-    
+
   valine: # Valine. https://valine.js.org
     appid:  # your leancloud application appid
     appkey:  # your leancloud application appkey
@@ -155,9 +155,9 @@ comment:
 # Api：
   # https://developers.douban.com/wiki/?title=book_v2 图书
   # https://developers.douban.com/wiki/?title=movie_v2 电影
-# books：  
+# books：
   # https://api.douban.com/v2/book/user/:name/collections?start=0&count=100 个人书单列表
-# movies: 
+# movies:
   # https://api.douban.com/v2/movie/in_theaters 正在上映的电影
   # https://api.douban.com/v2/movie/coming_soon 即将上映的电影
   # https://api.douban.com/v2/movie/subject/:id 单个电影信息
@@ -167,7 +167,7 @@ douban:
   start: 0 # 从哪一条记录开始
   count: 100 # 获取豆瓣书单数据条数
   apikey: # 豆瓣apikey
-  
+
 # PV 统计
 pv:
   busuanzi:
@@ -176,26 +176,26 @@ pv:
     enable: false  # leancloud统计
     app_id: # leancloud <AppID>
     app_key: # leancloud <AppKey>
-        
+
 # wordcount
 postCount:
   enable: true
   wordcount: true  # 文章字数统计
-  min2read: true  # 阅读时长预计 
+  min2read: true  # 阅读时长预计
 
 # Plugins
 plugins:
   google_analytics: # 输入跟踪ID为您的谷歌分析
   google_site_verification: # 输入Google站点验证码
   baidu_analytics: # 输入百度分析哈希键
-  tencent_analytics: 
-  
+  tencent_analytics:
+
 # Miscellaneous
 twitter:
 google_plus:
 fb_admins:
-fb_app_id:  
-  
+fb_app_id:
+
 # profile
 profile:
   enabled: true # Whether to show profile bar
@@ -203,9 +203,9 @@ profile:
   avatar: images/avatar.jpg
   gravatar: # Gravatar电子邮件地址，如果你启用了Gravatar，你的头像配置将被覆盖
   author: 郭顺发
-  author_title: JAVA开发攻城狮
-  author_description: 专注于服务端场景的解决方案。
-  location: Harbin, China
+  author_title: 创业中......
+  author_description: 承接：小程序开发、APP开发、网站开发、爬虫开发
+  location: 深圳, China
   follow: https://github.com/guoshunfa
   # Social Links
   social:
@@ -216,13 +216,12 @@ profile:
       code: https://cloud.tencent.com/developer/user/7784141
       rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
-  # My Skills 
+  # My Skills
   skills:
-    Java: ★★★☆☆
-    Spring: ★★★☆☆
-    HTML+CSS+JS: ★☆☆☆☆
-    Vue: ★☆☆☆☆
-    Linux: ★★☆☆☆
+    APP: ★★★★☆
+    小程序: ★★★★☆
+    网站: ★★★★☆
+    爬虫: ★★★★☆
   # 我的个人链接
   links:
     Gitee: https://gitee.com/guoshunfa
@@ -230,18 +229,27 @@ profile:
     Blog: https://www.guoshunfa.com
     Old_Blog: https://o.guoshunfa.com
     腾讯云开发者社区: https://cloud.tencent.com/developer/user/7784141
-    掘金: https://juejin.cn/user/166781500267015
     CSDN: https://blog.csdn.net/weixin_44450947
     博客园: https://home.cnblogs.com/u/guoshunfa
-#    B站: https://space.bilibili.com/394944784?spm_id_from=333.337.0.0
-#    简书: https://www.jianshu.com/u/bdf3be38c0ba
-#    小红书: https://www.xiaohongshu.com/user/profile/61664235000000000201a889
+    掘金: https://juejin.cn/user/166781500267015
+    w2solo: https://w2solo.com/guoshunfa
+    小红书: https://www.xiaohongshu.com/user/profile/6579d8b10000000019012851
+    微博: https://weibo.com/u/7033080465
+    segmentfault: https://segmentfault.com/u/guoshunfa
+    # 51cto: 
+    简书: https://www.jianshu.com/u/bdf3be38c0ba
+    # oschina: 
+    # 电鸭社区: 
+    B站: https://space.bilibili.com/394944784?spm_id_from=333.337.0.0
+    抖音: https://www.douyin.com/user/self?modal_id=7355366873216634175
+    快手: https://www.kuaishou.com/profile/3x9rfs2yshsg5i4
+    
   # 我的个人标签
-  labels:
-    - JAVA后端
-    - JAVA后端开发
-    - Spring开发
-    - 解决方案
+  # labels:
+  #   - JAVA后端
+  #   - JAVA后端开发
+  #   - Spring开发
+  #   - 解决方案
   # 个人作品
   works:
     郭顺发博客平台:

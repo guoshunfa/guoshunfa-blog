@@ -6,4 +6,4 @@ git init
 git remote add origin https://github.com/guoshunfa/guoshunfa-blog-page.git
 git add .
 git commit -m "deleted all files"
-git push origin master:master --force
+git push --force origin master:master

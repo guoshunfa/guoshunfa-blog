@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16b24e62-dca5-4c45-bbf9-b3443ebd14ac" name="默认变更列表" comment="2023072809">
-      <change afterPath="$PROJECT_DIR$/source/_drafts/2023年旅游攻略.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_drafts/2023年旅游攻略/image-20230726083104185.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_drafts/2023年旅游攻略/image-20230726141425948.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_drafts/2023年旅游攻略/image-20230727103756621.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_drafts/2023年旅游攻略/image-20230727104327176.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_drafts/2023年旅游攻略/image-20230727104345477.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_drafts/2023年旅游攻略/image-20230727104515518.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_drafts/2023年旅游攻略/image-20230727105948054.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_drafts/2023年旅游攻略/image-20230727110607726.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_drafts/2023年旅游攻略/image-20230727110623194.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myscripts/clean-mac.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myscripts/git-push.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myscripts/mac_deploy.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myscripts/win_deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/日记/明确目标重新开始.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_drafts/明确目标重新开始.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/日记/明确目标重新开始/v2-fa802283c702759072c66b3601eb5f7e_720w-20230523101305271.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/source/_drafts/明确目标重新开始/v2-fa802283c702759072c66b3601eb5f7e_720w-20230523101305271.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/pure/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/pure/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -38,9 +44,20 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7acd3e9b-2206-4862-9dce-db64fc44919b" />
+        <option name="url" value="https://github.com/guoshunfa/guoshunfa-blog.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2RSL5h2WeVdtF1rezjAYA5kWl9r" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,13 +69,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript 调试.index.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "F:/development_management/projects/guoshunfa-blog/myscripts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "nodejs_interpreter_path": "C:/Program Files/nodejs/node",
+    "nodejs_package_manager_path": "npm",
+    "npm.server.executor": "Run",
+    "settings.editor.selected.configurable": "settings.nodejs",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -74,25 +99,28 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\development_management\projects\guoshunfa-blog\myscripts" />
       <recent name="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建一个单体springboot项目" />
       <recent name="$PROJECT_DIR$/source/_posts/场景解决方案" />
       <recent name="$PROJECT_DIR$/source/_posts/arthas" />
       <recent name="$PROJECT_DIR$/source/_posts/docker" />
-      <recent name="$PROJECT_DIR$/source/_posts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\代码仓库\guoshunfa-blog\source\_drafts" />
       <recent name="G:\软件开发\git仓库\guoshunfa-blog\source\_drafts" />
       <recent name="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/23集成流程引擎/搭建单体SpringBoot项目-集成Activiti7-整合" />
       <recent name="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/23集成流程引擎/搭建单体SpringBoot项目-集成Activiti7-进阶" />
       <recent name="$PROJECT_DIR$/source/_posts/软件开发/场景/搭建单体SpringBoot项目/23集成流程引擎/搭建单体SpringBoot项目-集成Activiti7-基础" />
-      <recent name="$PROJECT_DIR$/source/_posts/软件开发" />
     </key>
   </component>
   <component name="RunManager" selected="npm.server">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/guoshunfa-blog/public/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="deploy.sh" type="ShConfigurationType" temporary="true">
       <option name="SCRIPT_TEXT" value="" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/myscripts/deploy.sh" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/myscripts/mac_deploy.sh" />
       <option name="SCRIPT_OPTIONS" value="" />
       <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
       <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/myscripts" />
@@ -104,11 +132,30 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript 调试.index.html" />
         <item itemvalue="Shell Script.deploy.sh" />
+        <item itemvalue="npm.deploy" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -139,6 +186,21 @@
       <workItem from="1688688957478" duration="1189000" />
       <workItem from="1688691325499" duration="16922000" />
       <workItem from="1690178094335" duration="1062000" />
+      <workItem from="1706442512678" duration="362000" />
+      <workItem from="1706442883052" duration="23000" />
+      <workItem from="1709621796615" duration="492000" />
+      <workItem from="1709622298042" duration="2052000" />
+      <workItem from="1710490401721" duration="137000" />
+      <workItem from="1710493054787" duration="2532000" />
+      <workItem from="1710558444499" duration="1405000" />
+      <workItem from="1710583309973" duration="1032000" />
+      <workItem from="1710654633228" duration="4214000" />
+      <workItem from="1711209252555" duration="489000" />
+      <workItem from="1711246675102" duration="663000" />
+      <workItem from="1711892984923" duration="3000" />
+      <workItem from="1714482047207" duration="48000" />
+      <workItem from="1714482110737" duration="1159000" />
+      <workItem from="1720303048172" duration="8781000" />
     </task>
     <task id="LOCAL-00001" summary="调整配置">
       <created>1688544687454</created>
