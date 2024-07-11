@@ -203,7 +203,7 @@ profile:
   avatar: images/avatar.jpg
   gravatar: # Gravatar电子邮件地址，如果你启用了Gravatar，你的头像配置将被覆盖
   author: 郭顺发
-  author_title: 创业中......
+  author_title: 接单中......
   author_description: 承接：小程序开发、APP开发、网站开发、爬虫开发
   location: 深圳, China
   follow: https://github.com/guoshunfa
